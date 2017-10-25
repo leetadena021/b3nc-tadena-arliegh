@@ -1,0 +1,20 @@
+HTML =Structure.
+Hyper Text Markup language.
+
+Body element
+h1= should only be used once = SEO (Search engine oprtimization)
+not all elements has a closing tags = they are know as self-closing tags, empty tags or void tags. 
+
+HTML attributes provide an extra information about an HTML element. 
+Attributes are always added on opening tags.
+
+name(name of the attribute)= "Value"
+
+html tags- classification 
+
+doctype= provides information to the browser what kind of html are we using. 
+HTML 5 =new current version.
+
+heads= element contains information about an HTML document that is used by browsers and crawlers.
+
+title- element used to assign a title to an HTML document 
