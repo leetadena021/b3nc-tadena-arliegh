@@ -1,0 +1,89 @@
+First tropic:
+
+How Internet started- Batch processing-1950. 
+1957- when the server started, time-sharing. 
+1960's-1980s - Birth of internet
+	1. Packet switching
+	2. ARPANET- Predecessor of the internet
+	3. TCP/IP- Technology to develop the internet
+Packet switching- Introduce by NPL
+-Transmiting long messages of data
+-Message is broken into sum number of parts. 
+
+Packet Loss- portion that wasn't received by the requester. 
+	- one or more packets of data traveliing across a computer network that didn't reached their destination. 
+
+
+Second topic: 
+How the Internet Works
+	
+Bulding blocks of the Internet
+	7. Application
+	6. Presentation (Application)
+	5. Session
+	
+	4. Transport	(Transport)
+	3. Network	(Internet)
+	
+	2. Data Link	
+	1. Physical	(Network Interface)	
+
+Network Interface Layer
+	How devices communicate using physical medium. 
+
+Device to Device communication
+	(1)Cables = Wired connection (Lan) Ethernet, DSL, Co-axial cable, Fiber Optics 
+	(2) Wifi= Wireless connection Radio Signal, Satellite, Bluetooth, Infrared
+
+Binary = 1, 0 
+Modem- Digital to analog- Modulator and Demodulator
+
+Access point-helps to widen the range of the signal of the wifi.
+	- sometimes refered as a router. 
+
+ISP internet service provider- PLDT, Smart, Globe. 
+
+ISP TO ISP communication, Device
+
+Protocol -standard method
+
+Internet Protocol = I.P ---> I.P address. Maximum 0-255.0-255.x.xx
+Function:
+
+1. Identify each device connected to the network.
+2. Formatting of messages.
+3. Routing of messages from source 
+
+Format 4. seperated by periods.
+	example. 
+	127. = local host
+
+Old version = IPv4 ----> IPv6
+
+Domain Name System = Naming system that maps domain name to specific IP address. 
+
+Application Layer 
+	Activities and functions that can be perfomed using the internet. 
+Internet= Platform
+WWW= Application
+
+Client= a computer that connects to ad uses the resources of a remote computer, or server. 
+	-could be hardware-software
+	-Browser= Client requesting data from another server
+Server- a computer desgined to process request and deliver data to other client over a local network or .. . 
+
+URL- Address (Uniform resource locator)
+
+Web servers- most of the time is not hardware, they are applications
+
+How Websites are Created. 
+
+
+
+
+
+
+
+
+
+	
