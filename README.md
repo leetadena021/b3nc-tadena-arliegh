@@ -10,7 +10,7 @@ This is my first feedback.
 
 ## 2017-10-25/26
 ### Getting Started with HTML
-Instruction are clear and concise. I recommend an assistant prof to check the work of students if the class are big. 
+Instruction are clear and concise. I recommend an assistant prof to check the work of the students if the class are big. 
 
 ## 2017-10-25
 ### (TOPIC)

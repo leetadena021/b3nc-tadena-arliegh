@@ -63,9 +63,25 @@ Ordered lists- numbered ol= element li= tag inside
 
 Unorderd lists- bulleted ul= element li= tag inside
 
-Definition lists-
+Definition lists- <dl><dd><dt> </dt></dd> </dl>
 
 
+Adding Images
+
+<Img>
+alt- always use to avoid markdowns
+src- 
+
+table
+tr =table row
+td= table data
+
+Form controls
+	*adding text (text input, password inpute, text area)	
+	*making choices (radio buttons, checkboxes, drop-down boxes)
+	* submitting Forms (submit buttons, iamge buttons, file upload) 
+
+From Structure <Form> carry the action and usually have a "method" attribute
 
 
 
