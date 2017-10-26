@@ -18,3 +18,64 @@ HTML 5 =new current version.
 heads= element contains information about an HTML document that is used by browsers and crawlers.
 
 title- element used to assign a title to an HTML document 
+
+Nested elements = classified elements
+In line container = contains text properties
+
+br= line break =should be once or twice. 
+hr= horizontal rule
+
+TEXT FORMATTING
+
+Use Strong instead of b(bold). <Strong>
+use emphasize instead of i(italic). <em>
+superscript = <sup>
+subscript = <sub>
+abbr= abbreviation
+blockquote
+footer
+quote= <q>
+del= deleted <del>
+insert= inserted <ins>
+strike = <s>
+small= <small> </small> 
+
+--LINK FORMATING-- 
+a href two types  of URL (1)Absolute and (2)Relative URL
+
+Absolute URL - We don't have any control and most of the time it indicates a protocol
+
+Relative URL - We do have the control or it is in the directory of the pc. 
+
+Root folder= Parent folder
+
+target = attribute to create a new page value "_blank"
+#id= linking to a specific part of the page. if there's no specific I.D 
+
+
+LIST FORMATTING
+
+
+
+
+
+Ordered lists- numbered ol= element li= tag inside
+
+Unorderd lists- bulleted ul= element li= tag inside
+
+Definition lists-
+
+
+
+
+
+
+
+
+
+sublime text shortcuts
+crtl shift k = delete
+crtl shift d = copy duplicate
+
+crtl [ de-indent
+crtl ] indent
