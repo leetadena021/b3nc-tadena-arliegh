@@ -92,7 +92,38 @@ Method commonly used value
 
 array = Group of items. 
 
+Semantich HTML =plays a large role in Semantich HTML
 
+Identifiable sections <Header> <Nav>
+			<Article>
+			<Figure>
+			<Footer>
+
+<NAV> Navigate 
+	(Has anchor tags (ahref) and Unordered list (ul).
+
+Footer<contains the article and additional information>
+article <aside>
+
+<Figure>= <Images ><Video> <Diagram><Illustration><>
+
+Document Info
+
+The <head> element defines a container for a web page's metadata (data about data)
+
+<title> defines the title of a document
+<link> define the relationship between a document and an external source.
+<meta> defines metadata attached to a web page,
+<style> defines style information for a document. 
+
+FOR EVERY PROJECT
+META IS NEEDED. 
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0"> = it tells the browser that this is a mobile-friendly webite.
+
+<meta name="X-UA-compatible" content="IE=Edge"> -compatibility to old version of Internet explorer. 
 
 
 
