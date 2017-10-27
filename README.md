@@ -12,6 +12,14 @@ This is my first feedback.
 ### Getting Started with HTML
 Instruction are clear and concise. I recommend an assistant prof to check the work of the students if the class are big. 
 
+## 2017-10-27
+### Completion of HTML/Activity of HTML/ Evaluation for week 1
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
 ## 2017-10-25
 ### (TOPIC)
 This is my first feedback.
@@ -23,6 +31,67 @@ This is my first feedback.
 ## 2017-10-25
 ### (TOPIC)
 This is my first feedback.
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
+## 2017-10-25
+### (TOPIC)
+This is my first feedback.
+
 
 ## 2017-10-25
 ### (TOPIC)

@@ -83,6 +83,17 @@ Form controls
 
 From Structure <Form> carry the action and usually have a "method" attribute
 
+Method commonly used value
+-get
+-post
+-delete
+
+<form name="userDetails" id="userDetails">
+
+array = Group of items. 
+
+
+
 
 
 
