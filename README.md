@@ -14,11 +14,11 @@ Instruction are clear and concised. I recommend an assistant prof to check the w
 
 ## 2017-10-27
 ### Completion of HTML/Activity of HTML/ Evaluation for week 1
+## Great instruction and activity to practice HTML codes
 
+## 2017-10-30
+### END OF HTML Code/ 
 
-## 2017-10-25
-### (TOPIC)
-This is my first feedback.
 
 ## 2017-10-25
 ### (TOPIC)
