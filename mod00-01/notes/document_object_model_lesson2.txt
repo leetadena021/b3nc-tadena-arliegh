@@ -1,0 +1,26 @@
+DOCUMENT OBJECT MODEL
+
+
+
+Browser/Page= Output
+DOM= Where the developer and programmer manipulates/edit codes to produce an output
+
+
+* Platform and language neutral interface. 
+* Change the document structure (HTML), style (CSS) and content 
+* Data= front end and back end 
+* Document as nodes and objects
+
+
+HTML DOM = Manipulation of information (add, delete. resized)
+ * standard object model and programming interface for HTML
+ * objects = properties/ attributes of the element that we manipulate.
+ * the events for all HTML elements
+
+
+<HTML> = Root element
+
+TEXT = string = sequence of characters (alpha numeric, special characters - , .! # ? solution)
+
+
+ 

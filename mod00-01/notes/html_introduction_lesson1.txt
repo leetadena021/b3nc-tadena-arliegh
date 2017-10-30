@@ -129,6 +129,9 @@ META IS NEEDED.
 
 
 
+. = class
+#= name  This character is used to indicate the name of the section where a link will jump to
+
 
 
 sublime text shortcuts
@@ -138,3 +141,9 @@ ctrl shift d = copy duplicate
 ctrl [ de-indent
 ctrl ] indent
 ctrl / insert comment. 
+
+/ -> root directory
+./ -> return current location
+
+../ -> go back one level up - parent directory
+
