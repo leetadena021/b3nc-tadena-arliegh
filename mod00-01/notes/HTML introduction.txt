@@ -132,8 +132,9 @@ META IS NEEDED.
 
 
 sublime text shortcuts
-crtl shift k = delete
-crtl shift d = copy duplicate
+ctrl shift k = delete
+ctrl shift d = copy duplicate
 
-crtl [ de-indent
-crtl ] indent
+ctrl [ de-indent
+ctrl ] indent
+ctrl / insert comment. 
