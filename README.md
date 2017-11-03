@@ -18,15 +18,16 @@ Instruction are clear and concised. I recommend an assistant prof to check the w
 
 ## 2017-10-30
 ### END OF HTML Code/ 
+## Great Discussion
 
 
-## 2017-10-25
-### (TOPIC)
-This is my first feedback.
+## 2017-11-02
+### Recap on DOM. HTML DOM ACTIVITY 1/2/3 
+Very clear and precise also fun to learn.
 
-## 2017-10-25
-### (TOPIC)
-This is my first feedback.
+## 2017-11-03
+### CSS Introduction Course
+We really appreciate how well it was presented to us so that we can internalize all the funtions of the code and the difference between DOM and CSS.
 
 ## 2017-10-25
 ### (TOPIC)
