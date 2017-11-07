@@ -29,13 +29,14 @@ Very clear and precise also fun to learn.
 ### CSS Introduction Course
 We really appreciate how well it was presented to us so that we can internalize all the funtions of the code and the difference between DOM and CSS.
 
-## 2017-10-25
-### (TOPIC)
-This is my first feedback.
+## 2017-11-06
+### CSS
+My first absent. :(
 
-## 2017-10-25
-### (TOPIC)
-This is my first feedback.
+## 2017-11-07
+### Git clone the resources repo from gitlab
+### Quiz (for review) on intro to css.
+### Intro to css box model
 
 
 ## 2017-10-25
