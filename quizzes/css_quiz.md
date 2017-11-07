@@ -15,7 +15,7 @@
 - ```<link src="stylesheet" type="text/css" href="mystyle.css">``` 
 
 ### Where in an HTML document is the correct place to refer to an external style sheet?
-- **In the <head> section **
+- **In the <head> section**
 - At the end of the document
 - In the <body> section
 - Before the <html> element
@@ -86,7 +86,7 @@
 
 ### It is the main international standards organization for the World Wide Web
 -**WWW**
-- W3
+- W3C
 - W3C
 - C3W
 
@@ -117,4 +117,4 @@
     
     main #comment #reply :  201
     
-    nav > ul > li > a:hover :  104
+    nav > ul > li > a:hover :  14

@@ -37,6 +37,7 @@ My first absent. :(
 ### Git clone the resources repo from gitlab
 ### Quiz (for review) on intro to css.
 ### Intro to css box model
+Great lesson and how well it was presented to us. We can easily understand the presentation while applying the code.
 
 
 ## 2017-10-25
