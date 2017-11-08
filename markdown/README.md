@@ -39,12 +39,13 @@ alert(s);```
 
 
 ###Emoji
-	:monkey:
 
-	:star2:
+:monkey:
 
-	:speech_baloon:
+:star2:
 
-	:zap:
+:speech_baloon:
+
+:zap:
 	
-	:v:
+:v:
