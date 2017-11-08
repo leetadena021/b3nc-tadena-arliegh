@@ -31,7 +31,7 @@ Inline `code` has `back-ticks around` it.```
 Inline `code` has `back-ticks around` it. 
 
 ``` javascript
-var s= "JavaScript syntax highlighting";
+var s="JavaScript syntax highlighting";
 alert(s);```
 
 ``` php
@@ -47,5 +47,5 @@ echo('Hello world!');```
 :speech_baloon:
 
 :zap:
-	
+
 :v:
