@@ -25,26 +25,38 @@ New list item:
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ``` no-highlight
-Inline `code` has `back-ticks around` it.```
+Inline `code` has `back-ticks around` it.
+```
 
 
 Inline `code` has `back-ticks around` it. 
 
 ```javascript
 var s= "JavaScript syntax highlighting";
-alert(s);```
+alert(s);
+```
 
-```php
-     echo('Hello world!');```
+```php 
+echo('Hello world!');
+```
 
 
-###Emoji
-	:monkey:
+## Emoji
 
-	:star2:
+:monkey:
 
-	:speech_baloon:
+:star2:
 
-	:zap:
-	
-	:v:
+:speech_balloon:
+
+:zap:
+
+:v:
+
+## Tables
+
+| first name | last name |
+|:-----------|:----------|
+| arliegh    | tadena    |
+| ariel 	 | tadena    |
+| aries		 | tadena	 |

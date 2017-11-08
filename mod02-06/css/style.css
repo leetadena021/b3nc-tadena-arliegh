@@ -2,12 +2,18 @@
 
 * {margin: 0;
 	padding:0;
+	box-sizing: border-box;/* centering the page when adjusting* to avoid overflowing elements/*/
+	/*box-sizing: content-box; default valute of box-sizing wherein there is an overflow of width and height*/
 }
 
+
+/*padding= space between contents
+ marging= between elements	
+*/
 .wrapper{
 	border: 1px grey;
-	width: 70%;
-	margin: 0 auto;	
+	width: 48%;
+	margin: 20px auto;	
 	padding: 10px;
 	
 }
@@ -21,6 +27,7 @@ div.wrapper > div > div{
 	text-align: center;
 	border-radius: 5px;
 	margin-top: 25px;
+	width: 50%;
 }
 
 
@@ -28,13 +35,14 @@ h1,
 p {
 	background-color: #dde0e3;
 }
-/* from inline type to block type elements*/
+/* from inline type to block type elements
 
 em, 
 strong { 
 	background-color: #b2d6ff;
 	display: inline;
 }
+
 
 h1 {
  /*padding: 10px 20px 30px 40px; clock-wise top right bottom left*/
@@ -59,8 +67,14 @@ strong {
 	margin: 50px;
 }
 
-p {padding: 20px 0px 20px 10px;							
+p {padding: 14px;							
 	/*margin-bottom: 50px;*/ /*to pervent margin collpase stick to margin-top OR margin-bottom NEVER USE BOTH*/
 	margin-top: 25px;
 
 }
+
+span {
+	font-size: 2em; /*em for 1 em x default size of font is 16 px, 1 em= 16px */ 
+	color: red;
+}
+
