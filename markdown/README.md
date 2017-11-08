@@ -25,17 +25,20 @@ New list item:
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ``` no-highlight
-Inline `code` has `back-ticks around` it.```
+Inline `code` has `back-ticks around` it.
+```
 
 
 Inline `code` has `back-ticks around` it. 
 
 ``` javascript
 var s="JavaScript syntax highlighting";
-alert(s);```
+alert(s);
+```
 
 ``` php
-echo('Hello world!');```
+echo('Hello world!');
+```
 
 
 ## Emoji
