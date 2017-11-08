@@ -35,10 +35,10 @@ var s= "JavaScript syntax highlighting";
 alert(s);```
 
 ```php
-     echo('Hello world!');```
+echo('Hello world!');```
 
 
-### Emoji
+## Emoji
 
 :monkey:
 
