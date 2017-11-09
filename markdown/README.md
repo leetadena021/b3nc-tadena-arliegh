@@ -31,12 +31,21 @@ Inline `code` has `back-ticks around` it.
 
 Inline `code` has `back-ticks around` it. 
 
+<<<<<<< HEAD
 ```javascript
 var s= "JavaScript syntax highlighting";
 alert(s);
 ```
 
 ```php 
+=======
+``` javascript
+var s="JavaScript syntax highlighting";
+alert(s);
+```
+
+``` php
+>>>>>>> 090273a0c731e69764e6793942c935ee449afc52
 echo('Hello world!');
 ```
 
@@ -51,6 +60,7 @@ echo('Hello world!');
 
 :zap:
 
+<<<<<<< HEAD
 :v:
 
 ## Tables
@@ -60,3 +70,6 @@ echo('Hello world!');
 | arliegh    | tadena    |
 | ariel 	 | tadena    |
 | aries		 | tadena	 |
+=======
+:v:
+>>>>>>> 090273a0c731e69764e6793942c935ee449afc52
