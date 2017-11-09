@@ -48,13 +48,13 @@ Great lesson and how well it was presented to us. We can easily understand the p
 
 ## 2017-11-08
 ### Setting up sublime text by installing packages
-###
-###
-###
+### End of Discussion of Box Model
+### CSS Activity Box Model
+Helpful topic in setting up sublime text. Great discussion in identifying inline elements and block elements
 
 
-## 2017-10-25
-### (TOPIC)
+## 2017-11-09
+### 
 This is my first feedback.
 
 
