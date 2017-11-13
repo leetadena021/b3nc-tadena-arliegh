@@ -54,17 +54,20 @@ Helpful topic in setting up sublime text. Great discussion in identifying inline
 
 
 ## 2017-11-09
-### 
-This is my first feedback.
+### Continuation of CSS Activity Box Model
+### Change/Fix Repository
+### CSS position properties
+It can be helpful if we read the instructions or the manual first on using the commands so that we can have the idea on how to use them but still teaching it and applying will be more effective in using the commands on git. 
 
 
-## 2017-10-25
+
+## 2017-11-13
 ### (TOPIC)
 This is my first feedback.
 
 
 ## 2017-10-25
-### (TOPIC)
+### CSS postioning and CSS positioning activity
 This is my first feedback.
 
 

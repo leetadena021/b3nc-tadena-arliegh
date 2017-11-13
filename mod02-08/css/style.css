@@ -6,11 +6,17 @@
 
 .grandparent {
 	background-color: skyblue;
+	width: 50%;
+	position: fixed;
+	/*left: 0px;*/
+	/*bottom: 0px;*/
+
 
 }
 
 .parent	{
 	background-color: pink;
+	/*position: relative;*/
 
 }
 
@@ -20,6 +26,7 @@ div {
 }
 
 p{
+	position: static;
 	margin-left: 50px;
 	/*margin-top: -20px;*/
 
@@ -33,13 +40,15 @@ input[name="firstname"] { margin-right: 20px;
 
 
 strong {
-	position: relative;
+	/*position: absolute;*/
 	/*left: 50px;*/
 	background-color: yellow;	
-	top: 100px;
-	left: 100px;
+	/*top: 10px; dependent to browser*/
+	/*left: 10px;/left: 100px;*/
 }
 /*off-canvas ----> positioning elements not viewable to the user's interface*/
 
 
 /*Viewport--->  space that is visible to the user interface*/
+
+/* when using relative, fixed or absolute postioning boxes can overlap*/
