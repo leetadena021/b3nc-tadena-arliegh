@@ -1,0 +1,104 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+.container {
+	width: 700px;
+	height: auto;
+	padding: 10px;
+	background-color: #000000;
+}
+
+
+.boxes {
+	height: 150px;
+    width: 150px;
+    background-color: grey;
+    float: left;
+    margin: 20px 1.16%;
+   
+ }
+
+.container1 {
+	width: 700px;
+	height: auto;
+	padding: 10px;
+	background-color: #000000;
+}
+
+.whitebox {
+	float: left;
+	border-style: solid;
+	border-color: white;
+	margin: 10px 1.16%;
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.boxes1 {
+	height: 150px;
+    width: 150px;
+    background-color: grey;
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 0;
+    margin-bottom: 20px;
+	}
+
+.text {
+	color: white;
+	text-align: center;
+}
+
+
+.container2 {
+	width: 700px;
+	height: auto;
+	padding: 10px;
+	background-color: #000000;
+}
+
+h2 {
+	color: #FFFFFF;
+}
+
+.boxes2 {
+	height: 150px;
+    width: 150px;
+    background-color: grey;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.text1 {
+	color: #FFFFFF;
+	display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+
+
+
+
+
+.clear:after {
+	content: ""; /*string or invisible elements*/ 	
+	clear: both;
+	display: block;
+}
+
+
+
+
