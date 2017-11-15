@@ -23,12 +23,6 @@
    
  }
 
-.container1 {
-	width: 700px;
-	height: auto;
-	padding: 10px;
-	background-color: #000000;
-}
 
 .whitebox {
 	float: left;
@@ -58,12 +52,7 @@
 }
 
 
-.container2 {
-	width: 700px;
-	height: auto;
-	padding: 10px;
-	background-color: #000000;
-}
+
 
 h2 {
 	color: #FFFFFF;
@@ -88,6 +77,171 @@ h2 {
 }
 
 
+.boxes3 {
+	height: 150px;
+    width: 150px;
+    background-color: grey;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+
+#paragraph {
+	display: table-row;
+}
+
+
+.text2 {
+	color: #FFFFFF;
+	font-style: italic;
+	margin-bottom: 1.5em;
+	margin-top: 1.5em;
+	text-align: justify;
+}
+
+.boxes4{
+	height: 50px;
+    width: 50px;
+    background-color: grey;
+    float: left;
+    margin-right: 7px;
+ }
+
+textarea {
+	box-sizing: border-box;
+	width: 620px;
+	height: 100px;
+}
+
+button {
+	float: right;
+	margin: 2.5px;
+	padding: 1.5px;
+
+}
+
+label {
+	font-size: 5px;
+	margin-right: 3px; 
+	margin-left: 3px;
+	color: #FFFFFF;
+}
+
+a {
+	color: blue;
+
+
+
+}
+
+.vl { 
+	border-left: 1.5px solid grey;
+	height: 200px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+.boxes5{
+	height: 50px;
+    width: 50px;
+    background-color: grey;
+    float: left;
+    margin-right: 7px;
+    margin-left: 5px;
+}
+
+
+
+
+.text3{
+	color: #FFFFFF;
+
+}
+	
+
+
+#lorem {
+	font-style: italic;
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.text4 {
+	color: #FFFFFF;
+	display: table-row;
+	margin-bottom: 20px;
+
+}
+
+
+
+
+.clear:after {
+	content: ""; /*string or invisible elements*/ 	
+	clear: both;
+	display: block;
+}
+
+.comment {
+
+	margin-left: 60px;
+}
+
+.container1 {
+	width: 700px;
+	height: auto;
+	padding: 10px;
+	background-color: #000000;
+
+}
+
+.boxes6 {
+	height: 100px;
+    width: 200px;
+    background-color: grey;
+    float: left;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.paragraph1 {
+	color: #FFFFFF;
+	font-weight: bold;
+
+}
+
+.paragraph2 {
+	color: grey;
+	font-size: 12px;
+}
+
+.boxes7 {
+	height: 100px;
+    width: 200px;
+    background-color: grey;
+    float: right;
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+
+.paragraph3 {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: right;
+	margin-left: 10px;
+	}
+
+.paragraph4 {
+	color: grey;
+	font-size: 12px;
+	text-align: right;
+	margin-left: 10px;
+	
+}
 
 
 
@@ -98,6 +252,10 @@ h2 {
 	clear: both;
 	display: block;
 }
+
+
+
+
 
 
 
