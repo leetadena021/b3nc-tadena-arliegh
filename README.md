@@ -75,7 +75,7 @@ Great lesson and how well it was presented to us. We can easily understand the p
 
 ## 2017-11-15
 ### Continuation of Activity CSS Float and positioning
-This is my first feedback.
+Focus on activity. Great experience for students to familiarize with the codes and how to apply them (positioning). 
 
 
 ## 2017-10-25
