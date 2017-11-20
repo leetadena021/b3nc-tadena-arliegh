@@ -244,6 +244,28 @@ a {
 }
 
 
+.description1{
+	float: left;
+	text-align: left;	
+	width: 30%;
+	left: 30%;
+}
+
+
+
+.boxes8 {
+	height: 150px;
+    width: 150px;
+    background-color: grey;
+    margin-right: 5px;
+    margin-bottom: : 5px;
+    float: right;
+}
+
+.paragraph5 {
+	color: white;
+	font-size: 16px;
+}
 
 
 

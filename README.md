@@ -62,17 +62,19 @@ It can be helpful if we read the instructions or the manual first on using the c
 
 
 ## 2017-11-13
-### (TOPIC)
-This is my first feedback.
-
-
-## 2017-10-25
 ### CSS postioning and CSS positioning activity
-This is my first feedback.
+Great lecture. 
 
 
-## 2017-10-25
-### (TOPIC)
+## 2017-11-14
+### Continuation: Lecture and "Code Along" of 'CSS position properties'
+### Continuation: Discussion of possible solutions to 'CSS Box Model activity'
+Great lesson and how well it was presented to us. We can easily understand the presentation while applying the code.
+
+
+
+## 2017-11-15
+### Continuation of Activity CSS Float and positioning
 This is my first feedback.
 
 
