@@ -1,0 +1,76 @@
+/* css reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+h3 {
+	margin: 15px auto;
+}
+
+.wrapper {
+	background-color: #fff; /* white */
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+}
+
+.item1,
+.item2 {
+	height: 150px;
+	width: 150px;
+	background-color: red;
+}
+
+.item2 {
+	border-left: 10px solid blue;
+	border-right: 10px solid blue;
+}
+
+.item3 {
+	border: 1px solid #000;
+	border-radius: 10px 0 10px 0;
+	padding: 10px;
+	display: inline;
+
+}
+
+.item4 {
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	
+}
+
+.item5 {
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 150px;
+}
+
+
+
+
+.item6 {
+
+	width: 400px;
+	height: 600px;
+	border: 1px solid #000;
+	position: relative;
+}
+
+.item6 > img {
+	width: 80px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
