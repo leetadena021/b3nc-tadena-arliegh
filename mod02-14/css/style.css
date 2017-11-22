@@ -60,10 +60,10 @@ h3 {
 
 
 
-.item6 {
+.item6,.item7,.item8 {
 
 	width: 400px;
-	height: 600px;
+	height: 500px;
 	border: 1px solid #000;
 	position: relative;
 }
@@ -74,3 +74,47 @@ h3 {
 	bottom: 0;
 	left: 0;
 }
+
+
+
+.item7 > img {
+	width: 80px;
+	}
+
+.item7 > img[src="img/sun.gif"] {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.item7 > img[src="img/coconut.jpg"] {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+
+}
+
+
+.item8 {
+	text-align: center;
+	line-height: 450px;
+	
+}
+.item8 > img {
+	width: 80px;
+	}
+
+
+.item8 > img[src="img/sun.gif"] {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.item8 > img[src="img/coconut.jpg"] {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+
+}
+
