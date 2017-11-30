@@ -14,8 +14,3 @@
 	 
 }
 
-@media (min-width: 768px)
-navbar.less:661
-.navbar {
-    border-radius: 0px;
-}
