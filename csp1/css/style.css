@@ -1,13 +1,23 @@
 * {
 	margin: 0;
-	padding: 0;
+
 }
 
 body {
 	background: url("../img/batlogo.jpg") no-repeat;	
 	background-size: cover;
 	background-attachment: fixed;
+
 	}
+
+p {
+	font-family: 'Merienda One', cursive;
+	color: white;
+	margin: 5px;
+}
+
+
+
 
 
 /* 
@@ -32,6 +42,9 @@ navbar
 responsive slides
 *
 */
+
+
+
 .rslides {
   position: relative;
   list-style: none;
@@ -62,7 +75,64 @@ responsive slides
   float: left;
   width: 100%;
   border: 0;
+  margin-bottom: 10px;
   }
 
 
+  /*
+   *
+  Header
+   *
+   */
+
+h1, h2, h3 {
+ font-family: 'Permanent Marker', cursive;
+ color: white;
+ text-align: center;
+}
+
+
+/*
+*
+content
+*
+*/ 
+
+
+.row > .col-sm-4 > img {
+  width: 220px;
+  margin-left: 5px;
+}
+
+.col-sm-4 > p, .col-sm-8 > p {
+	margin: 10px 5px 5px;
+	text-align: center;
+
+}
+
+.media-left > a > img {
+  height: 	250px;
+  width: 200px;
+  margin: 10px 10px;
+  padding: 10px;
+}
+
+
+
+@media only screen and (min-width: 961px) {
+
+
+
+.rslides img {
+ max-height: 50em; 
+ position: relative;
+ width: 50%;
+ margin: 0 auto;
+
+
+
+} /*Desktop closing*/
+
+
+	
 
