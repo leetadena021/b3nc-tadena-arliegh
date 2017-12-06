@@ -1,0 +1,134 @@
+* {
+	margin: 0;
+
+}
+
+body {
+	background: url("../img/batbg6.jpg") no-repeat;	
+	background-size: cover;
+	background-attachment: fixed;
+
+	}
+
+p {
+	font-family: 'Merienda One', cursive;
+	color: white;
+	margin: 5px;
+  	text-align: justify;
+}
+
+/* 
+*
+navbar 
+*
+*/
+
+.logo {
+	max-height: 250%;
+	position: relative;
+	top: 0;
+	left: 0;
+	margin: 0;
+	transform: translate(-16%,-27%);
+}	
+
+ul > li > a {
+  font-family: 'Permanent Marker', cursive;
+  }
+
+.navbar-inverse .navbar-nav> li > a:hover {
+color: #002660;
+}
+
+
+h1, h2 {
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  box-shadow: -webkit-box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
+  -moz-box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
+  box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
+}
+
+h1:hover, h2:hover {
+ color: #002660;
+}
+
+/*
+Road to Batcon content
+*/
+
+.col-sm-6 > p {
+	margin-top: 3em;
+}
+
+.col-sm-6 > img {
+	max-width: 100%;
+	padding-bottom: 7px;
+	-webkit-box-shadow: 0px 0px 13px 1px rgba(255,255,255,1);
+  -moz-box-shadow: 0px 0px 13px 1px rgba(255,255,255,1);
+  box-shadow: 0px 0px 13px 1px rgba(255,255,255,1);
+}
+
+/*
+footer
+*/
+
+footer {
+	margin-top: 5em;
+}
+
+
+@media only screen and (max-width: 768px){
+	.carousel-inner {
+		margin-top: 30px;
+	}
+
+	}
+
+/*social media footer*/
+
+.col-lg-6 > p {
+	margin-top: 3em;
+}
+
+
+.facebook-hover {
+    background-image: url('https://lut.im/9LlTfOBMjB/ccPwdiudyoF3x1wE.png');
+}
+
+.pinterest-hover {
+    background-image: url('https://lut.im/fU1GnJ1cOw/d0iRmklZgk2l6o5W.png');
+}
+
+.twitter-hover {
+    background-image: url('https://lut.im/SRoUJUn7V4/cORSlFIVBlR7M8Zv.png');
+}
+
+.instagram-hover {
+    background-image: url('https://lut.im/0LARg4VaCM/bWRJ8RbjK0r14RdO.png');
+}
+
+.tumblr-hover {
+    background-image: url('https://lut.im/wJDqfDmhLL/YZoci8VwKz37qwv4.png');
+}
+
+.social-slide {
+	height: 48px;
+	width: 48px;
+	margin: 10px;
+	float: left;
+	-webkit-transition: all ease 0.3s;
+	-moz-transition: all ease 0.3s;
+	-o-transition: all ease 0.3s;
+	-ms-transition: all ease 0.3s;
+	transition: all ease 0.3s;
+}
+.social-slide:hover {
+	background-position: 0px -48px;
+	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+}
+
+
+	
+
+ 
