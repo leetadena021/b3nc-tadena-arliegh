@@ -3,20 +3,20 @@ html, body{
 }
 
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 
 }
 
 body {
-	background: url("../img/loginwallpaper.jpg") no-repeat;	
-	background-position: center center;
-	background-attachment: fixed;
-	background-size:  cover;
-	}
+  background: url("../img/loginwallpaper.jpg") no-repeat; 
+  background-position: center center;
+  background-attachment: fixed;
+  background-size:  cover;
+  }
 
 a {
-  color: #aaaaaa;
+  color: grey;
   transition: all ease-in-out 200ms;
 }
 a:hover {
@@ -25,16 +25,16 @@ a:hover {
 }
 
 .logo:hover {
-	color: #002660;
+  color: #002660;
 }
 
 h1 {
-	margin-left: 3px;
+  margin-left: 3px;
 }
 
 h1, .logo {
-	font-family: 'Permanent Marker', cursive;
- 	color: white;
+  font-family: 'Permanent Marker', cursive;
+  color: white;
 }
 
 /*=== 4. Main Form ===*/
@@ -148,28 +148,28 @@ h1, .logo {
   color: #aaaaaa;
   font-weight: bold;
   margin-left: 3em;
-}	
+} 
 
 @media only screen and (max-width: 768px){
 
-	h1 {
-		text-align: center;
-		box-shadow: -webkit-box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
+  h1 {
+    text-align: center;
+    box-shadow: -webkit-box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
         -moz-box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
         box-shadow: 11px 11px 146px 24px rgba(56,23,23,0.78);
-	}
-	.logo {
-		text-align: center;
-		margin: 0;
-	}
+  }
+  .logo {
+    text-align: center;
+    margin: 0;
+  }
 
-	.login-form-1 {
-		text-align: center;
-	}
-	.login-group {
-		margin-left: 5em;
-	}
+  .login-form-1 {
+    text-align: center;
+  }
+  .login-group {
+    margin-left: 5em;
+  }
 
-	
+  
 
 } /*phone*/
