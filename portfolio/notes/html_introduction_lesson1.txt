@@ -1,0 +1,149 @@
+HTML =Structure.
+Hyper Text Markup language.
+
+Body element
+h1= should only be used once = SEO (Search engine oprtimization)
+not all elements has a closing tags = they are know as self-closing tags, empty tags or void tags. 
+
+HTML attributes provide an extra information about an HTML element. 
+Attributes are always added on opening tags.
+
+name(name of the attribute)= "Value"
+
+html tags- classification 
+
+doctype= provides information to the browser what kind of html are we using. 
+HTML 5 =new current version.
+
+heads= element contains information about an HTML document that is used by browsers and crawlers.
+
+title- element used to assign a title to an HTML document 
+
+Nested elements = classified elements
+In line container = contains text properties
+
+br= line break =should be once or twice. 
+hr= horizontal rule
+
+TEXT FORMATTING
+
+Use Strong instead of b(bold). <Strong>
+use emphasize instead of i(italic). <em>
+superscript = <sup>
+subscript = <sub>
+abbr= abbreviation
+blockquote
+footer
+quote= <q>
+del= deleted <del>
+insert= inserted <ins>
+strike = <s>
+small= <small> </small> 
+
+--LINK FORMATING-- 
+a href two types  of URL (1)Absolute and (2)Relative URL
+
+Absolute URL - We don't have any control and most of the time it indicates a protocol
+
+Relative URL - We do have the control or it is in the directory of the pc. 
+
+Root folder= Parent folder
+
+target = attribute to create a new page value "_blank"
+#id= linking to a specific part of the page. if there's no specific I.D 
+
+
+LIST FORMATTING
+
+
+
+
+
+Ordered lists- numbered ol= element li= tag inside
+
+Unorderd lists- bulleted ul= element li= tag inside
+
+Definition lists- <dl><dd><dt> </dt></dd> </dl>
+
+
+Adding Images
+
+<Img>
+alt- always use to avoid markdowns
+src- 
+
+table
+tr =table row
+td= table data
+
+Form controls
+	*adding text (text input, password inpute, text area)	
+	*making choices (radio buttons, checkboxes, drop-down boxes)
+	* submitting Forms (submit buttons, iamge buttons, file upload) 
+
+From Structure <Form> carry the action and usually have a "method" attribute
+
+Method commonly used value
+-get
+-post
+-delete
+
+<form name="userDetails" id="userDetails">
+
+array = Group of items. 
+
+Semantich HTML =plays a large role in Semantich HTML
+
+Identifiable sections <Header> <Nav>
+			<Article>
+			<Figure>
+			<Footer>
+
+<NAV> Navigate 
+	(Has anchor tags (ahref) and Unordered list (ul).
+
+Footer<contains the article and additional information>
+article <aside>
+
+<Figure>= <Images ><Video> <Diagram><Illustration><>
+
+Document Info
+
+The <head> element defines a container for a web page's metadata (data about data)
+
+<title> defines the title of a document
+<link> define the relationship between a document and an external source.
+<meta> defines metadata attached to a web page,
+<style> defines style information for a document. 
+
+FOR EVERY PROJECT
+META IS NEEDED. 
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0"> = it tells the browser that this is a mobile-friendly webite.
+
+<meta name="X-UA-compatible" content="IE=Edge"> -compatibility to old version of Internet explorer. 
+
+
+
+
+
+. = class
+#= name  This character is used to indicate the name of the section where a link will jump to
+
+
+
+sublime text shortcuts
+ctrl shift k = delete
+ctrl shift d = copy duplicate
+
+ctrl [ de-indent
+ctrl ] indent
+ctrl / insert comment. 
+
+/ -> root directory
+./ -> return current location
+
+../ -> go back one level up - parent directory
+
